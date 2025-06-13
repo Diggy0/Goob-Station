@@ -1,0 +1,232 @@
+﻿# Chest
+
+- type: marking
+  id: DwarfChestHair
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/chest.rsi
+    state: chesthair
+
+- type: marking
+  id: DwarfConstellationChest
+  bodyPart: Chest
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/chest.rsi
+    state: constellation
+
+
+- type: marking
+  id: DwarfMarkBear
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/chest.rsi
+    state: markbear
+
+
+- type: marking
+  id: DwarfMarkCobra
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/chest.rsi
+    state: markcobra
+
+
+- type: marking
+  id: DwarfMarkSpider
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/chest.rsi
+    state: markspider
+
+- type: marking
+  id: DwarfTattooShootingStar
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/chest.rsi
+    state: shootingstar
+
+# Head
+
+- type: marking
+  id: DwarfBearCheeks
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/head.rsi
+    state: bearcheeks
+
+- type: marking
+  id: DwarfConstellationHead
+  bodyPart: Head
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/head.rsi
+    state: constellation
+
+- type: marking
+  id: DwarfHeadGlow
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/head.rsi
+    state: glow
+
+
+# Snout
+
+# Eyes
+
+# RArm
+
+- type: marking
+  id: DwarfConstellationRArm
+  bodyPart: RArm
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/rarm.rsi
+    state: constellation
+
+# LArm
+
+- type: marking
+  id: DwarfArmHair
+  bodyPart: LArm
+  markingCategory: Arms
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/larm.rsi
+    state: hair
+
+- type: marking
+  id: DwarfConstellationLArm
+  bodyPart: LArm
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/larm.rsi
+    state: constellation
+
+# RLeg
+
+- type: marking
+  id: DwarfConstellationRLeg
+  bodyPart: RLeg
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/rleg.rsi
+    state: constellation
+
+# LLeg
+
+- type: marking
+  id: DwarfConstellationLLeg
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/lleg.rsi
+    state: constellation
+
+- type: marking
+  id: DwarfLegHair
+  bodyPart: LLeg
+  markingCategory: Legs
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/lleg.rsi
+    state: hair
+
+# UndergarmentBottom
+
+# UndergarmentTop
+
+# LFoot
+
+- type: marking
+  id: DwarfConstellationLFoot
+  bodyPart: LFoot
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/lfoot.rsi
+    state: constellation
+
+# RFoot
+
+- type: marking
+  id: DwarfConstellationRFoot
+  bodyPart: RFoot
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/rfoot.rsi
+    state: constellation
+
+# LHand
+
+- type: marking
+  id: DwarfConstellationLHand
+  bodyPart: LHand
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/lhand.rsi
+    state: constellation
+
+- type: marking
+  id: DwarfMarkKangarooLHand
+  bodyPart: LHand
+  markingCategory: Arms
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/lhand.rsi
+    state: markkangaroo
+
+# RHand
+
+- type: marking
+  id: DwarfConstellationRHand
+  bodyPart: RHand
+  markingCategory: Overlay
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/rhand.rsi
+    state: constellation
+
+- type: marking
+  id: DwarfMarkKangarooRHand
+  bodyPart: RHand
+  markingCategory: Arms
+  speciesRestriction: [ Dwarf ]
+  sprites:
+  - sprite: _Impstation/Mobs/Customization/Dwarf/rhand.rsi
+    state: markkangaroo
+
+# FacialHair
+
+# Hair
+
+# HeadSide
+
+# HeadTop
+
+# Tail
+
+# RArmExtension
