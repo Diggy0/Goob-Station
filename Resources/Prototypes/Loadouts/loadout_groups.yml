@@ -380,6 +380,7 @@
   - GreyJumpskirt
   - AncientJumpsuit
   - RainbowJumpsuit
+  - RainbowJumpskirt
   # Goobstation Loadout Rework Start
   # All of this is EE
   - AssymetricDress
@@ -450,9 +451,7 @@
   - ClothingUniformMNKBlackOverallsOutfit
   - ClothingUniformMNKBlackShoulderOutfit
   - ClothingUniformMNKTracksuitBlackOutfit
-  
  # Goobstation Loadout Rework End
-  - RainbowJumpskirt
  # goob changes start
   - GreyMJ
   - BlackMJ
@@ -885,7 +884,6 @@
   loadouts:
   - EmergencyNitrogenMime
   - EmergencyOxygenMime
-  - EmergencySpeciesMothMime
   - LoadoutSpeciesVoxNitrogen
 
 - type: loadoutGroup
