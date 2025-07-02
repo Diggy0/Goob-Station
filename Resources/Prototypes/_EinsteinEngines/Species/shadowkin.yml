@@ -51,13 +51,13 @@
       required: true
       defaultMarkings: [EarsShadowkin]
     Chest:
-      points: 8
+      points: 6
       required: false
     Legs:
-      points: 8
+      points: 6
       required: false
     Arms:
-      points: 8
+      points: 6
       required: false
 
 - type: humanoidBaseSprite

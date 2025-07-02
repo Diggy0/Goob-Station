@@ -452,7 +452,6 @@
   - ClothingUniformMNKTracksuitBlackOutfit
   
  # Goobstation Loadout Rework End
-  - RainbowJumpskirt
  # goob changes start
   - GreyMJ
   - BlackMJ
@@ -885,7 +884,6 @@
   loadouts:
   - EmergencyNitrogenMime
   - EmergencyOxygenMime
-  - EmergencySpeciesMothMime
   - LoadoutSpeciesVoxNitrogen
 
 - type: loadoutGroup

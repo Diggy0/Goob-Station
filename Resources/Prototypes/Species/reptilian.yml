@@ -61,19 +61,19 @@
       required: true
       defaultMarkings: [ LizardSnoutRound ]
     HeadTop:
-      points: 6
+      points: 2
       required: false
     HeadSide:
-      points: 6 # WWDP-Edit
+      points: 2 # WWDP-Edit
       required: false
     Chest:
-      points: 8
+      points: 3
       required: false
     Legs:
-      points: 8
+      points: 2
       required: false
     Arms:
-      points: 8
+      points: 2
       required: false
 
 - type: humanoidBaseSprite

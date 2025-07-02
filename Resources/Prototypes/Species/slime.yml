@@ -42,20 +42,17 @@
     Hair:
       points: 1
       required: false
-    HeadSide:
-      points: 8
-      required: false
     FacialHair:
       points: 1
       required: false
     Chest:
-      points: 8
+      points: 2
       required: false
     Legs:
-      points: 10
+      points: 4
       required: false
     Arms:
-      points: 10
+      points: 4
       required: false
 
 - type: humanoidBaseSprite

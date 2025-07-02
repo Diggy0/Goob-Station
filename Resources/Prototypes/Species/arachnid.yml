@@ -28,11 +28,10 @@
     Snout: MobHumanoidAnyMarking
     Chest: MobArachnidChest
     Groin: MobArachnidGroin
-    Hair: MobHumanoidAnyMarking # imp, arachnid hair arachnid hair!
     HeadTop: MobHumanoidAnyMarking
-    Eyes: MobArachnidEyes
     HeadSide: MobHumanoidAnyMarking
     Tail: MobHumanoidAnyMarking
+    Eyes: MobArachnidEyes
     LArm: MobArachnidLArm
     RArm: MobArachnidRArm
     LHand: MobArachnidLHand
@@ -53,27 +52,30 @@
   onlyWhitelisted: true
   points:
     Hair:
-      points: 1
+      points: 0
+      required: false
+    FacialHair:
+      points: 0
       required: false
     Tail:
       points: 1
       required: true
       defaultMarkings: [ ArachnidAppendagesDefault ]
     HeadTop:
-      points: 6
+      points: 1
       required: false
     HeadSide:
       points: 1
       required: true
       defaultMarkings: [ ArachnidCheliceraeDownwards ]
     Chest:
-      points: 10
+      points: 2
       required: false
     Legs:
-      points: 10
+      points: 2
       required: false
     Arms:
-      points: 10
+      points: 2
       required: false
 
 - type: humanoidBaseSprite

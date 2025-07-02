@@ -157,10 +157,13 @@
   - type: Tag
     tags:
     - SiliconMob
+<<<<<<< HEAD
     - CanPilot
     - FootstepSound
     - DoorBumpOpener
     - AnomalyHost
+=======
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
 
 - type: entity
   save: false
