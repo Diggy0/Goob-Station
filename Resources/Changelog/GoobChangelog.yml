@@ -11674,6 +11674,7 @@ Entries:
   id: 1278
   time: '2025-06-24T08:41:41.0000000+00:00'
 <<<<<<< HEAD
+<<<<<<< HEAD
 - author: NotActuallyMarty
   changes:
     - type: Fix
@@ -11934,5 +11935,7 @@ Entries:
       message: IPCs can now pilot, bump open doors, and host anomalies.
   id: 1311
   time: '2025-07-02T10:31:40.0000000+00:00'
+=======
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
 =======
 >>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)

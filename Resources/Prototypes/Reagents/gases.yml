@@ -331,10 +331,13 @@
         - !type:OrganType
           type: Slime
 <<<<<<< HEAD
+<<<<<<< HEAD
       - !type:Oxygenate # Shitmed - Cybernetic Organs
         conditions:
         - !type:OrganType
           type: Cybernetic
+=======
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
 =======
 >>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
       # Converts Nitrogen into CO2
@@ -1026,11 +1029,14 @@
         - !type:OrganType
           type: Plant
 <<<<<<< HEAD
+<<<<<<< HEAD
       - !type:Oxygenate
         factor: 8
         conditions:
         - !type:OrganType
           type: Cybernetic # Woundmed - Cybernetic Organs
+=======
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
 =======
 >>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
       # Convert Pluox into CO2.
@@ -1070,6 +1076,7 @@
           type: Human
       - !type:Oxygenate
 <<<<<<< HEAD
+<<<<<<< HEAD
         factor: 8
         conditions:
         - !type:OrganType
@@ -1096,6 +1103,11 @@
 >>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
         conditions:
         - !type:OrganType
+=======
+        factor: 8
+        conditions:
+        - !type:OrganType
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
           type: Animal
       - !type:Oxygenate
         factor: 8

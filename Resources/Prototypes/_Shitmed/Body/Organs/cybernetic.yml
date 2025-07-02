@@ -1,6 +1,7 @@
 # SPDX-FileCopyrightText: 2024 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
 <<<<<<< HEAD
+<<<<<<< HEAD
 # SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
 # SPDX-FileCopyrightText: 2025 Ilya246 <57039557+Ilya246@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Ilya246 <ilyukarno@gmail.com>
@@ -8,13 +9,19 @@
 # SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
 =======
 >>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
+=======
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: entity
 <<<<<<< HEAD
+<<<<<<< HEAD
   id: BaseCyberneticOrgan
   parent: BaseHumanOrgan
+=======
+  parent: OrganHumanEyes
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
 =======
   parent: OrganHumanEyes
 >>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
@@ -23,6 +30,7 @@
   components:
   - type: Cybernetics
   - type: Sprite
+<<<<<<< HEAD
 <<<<<<< HEAD
     sprite: _Shitmed/Mobs/Species/Misc/Cybernetics/organs.rsi
   - type: Tag
@@ -35,6 +43,10 @@
     sprite: _EinsteinEngines/Mobs/Species/IPC/organs.rsi
     state: "eyes"
 >>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
+=======
+    sprite: _EinsteinEngines/Mobs/Species/IPC/organs.rsi
+    state: "eyes"
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
 
 - type: entity
   parent: BaseCyberneticEyes
@@ -43,10 +55,13 @@
   description: A pair of cybernetic eyes that enhance your vision, and protect you from eye damage.
   components:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - type: Cybernetics
   - type: Sprite
     sprite: _Shitmed/Mobs/Species/Misc/Cybernetics/organs.rsi
     state: eyes
+=======
+>>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
 =======
 >>>>>>> parent of 59809ad5d0 (Merge branch 'master' into loadoutrework2)
   - type: Organ
